@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer Can</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o1canyucel" alt="o1canyucel" /></a> </p>
-
 - 🔭 I’m currently working on [Mikrolo](https://www.mikrolo.com)
-
-- 🌱 I’m currently learning **.Net Core & Flutter**
 
 - 📫 How to reach me **omer.canyucel@outlook.com**
 
