@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **omer.canyucel@outlook.com**
 
-- 📄 Know about my experiences [omercanyucel.com](omercanyucel.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/o1canyucel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="o1canyucel" height="30" width="40" /></a>
